@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **A Netflix Simulator**
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Java**
 
