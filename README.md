@@ -9,9 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colemicha" alt="colemicha" /></a> </p>
 - 💬 Ask me about **Java**
+
 - 💬 Ask me about **Springboot**
+
 - 💬 Ask me about **Microservices**
+
 - 💬 Ask me about **Database**
+
 - 📫 How to reach me **adeniyimichael329@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
