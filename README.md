@@ -8,13 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colemicha&label=Profile%20views&color=0e75b6&style=flat" alt="colemicha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colemicha" alt="colemicha" /></a> </p>
-
-- 🔭 I’m currently working on **A Netflix Simulator**
-
-- 🌱 I’m currently learning **AWS**
-
 - 💬 Ask me about **Java**
-
+- 💬 Ask me about **Springboot**
+- 💬 Ask me about **Microservices**
+- 💬 Ask me about **Database**
 - 📫 How to reach me **adeniyimichael329@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
