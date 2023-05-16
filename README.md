@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **Microservices**
 
-- 💬 Ask me about **Database**
-
 - 📫 How to reach me **adeniyimichael329@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
