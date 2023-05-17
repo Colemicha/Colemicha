@@ -10,6 +10,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colemicha" alt="colemicha" /></a> </p>
 
 - 💬 Ask me about **Java**
+ 
+- 💬 Ask me about **J2EE Web Services**
 
 - 💬 Ask me about **Springboot**
 
