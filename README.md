@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Microservices**
 
-- 🌱 I’m currently working on Java/Kotlin for building scalable, maintenable and testable backend applications
+- 🌱 I’m currently working on Java for building scalable, maintenable and testable backend applications
 
 - 📫 How to reach me **adeniyimichael329@gmail.com**
 
