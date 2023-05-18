@@ -17,6 +17,8 @@
 
 - 💬 Ask me about **Microservices**
 
+- 🌱 I’m currently working on Java/Kotlin for building scalable, maintenable and testable backend applications
+
 - 📫 How to reach me **adeniyimichael329@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
